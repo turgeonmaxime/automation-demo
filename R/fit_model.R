@@ -1,5 +1,4 @@
 library(tidyverse)
-library(RcppRoll)
 
 dataset <- read_csv("cache/prov_data.csv")
 
